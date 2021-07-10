@@ -1,0 +1,40 @@
+.infoAboutTheCountry {
+    position: relative;
+    top: 100px;
+    padding: 50px;
+    max-width: 1440px;
+    margin: 0 auto;
+    background: white;
+    text-align: left;
+}
+
+.infoAboutTheCountry span {
+    font-weight: bold;
+}
+
+.title, .countryName {
+    font-size: 32px;
+}
+
+.preInfo {
+    font-size: 14px;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5vw;
+    font-size: 14px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.gray {
+    font-size: 14px;
+    color: #333333;
+    opacity: 0.5;
+    font-weight: normal;
+}
