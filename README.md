@@ -1,3 +1,14 @@
+# Просмотр статистики COVID-19 в мире :hospital:
+
+### Стек: React+Redux
+
+## Функционал:
+- :white_check_mark: Приложение доступно по адресу: http://www.millem.ru/
+- :white_check_mark: Адаптивная вёрстка
+- :white_check_mark: Быстрый поиск по нажатию на букву
+
+![111](https://user-images.githubusercontent.com/79835478/125161321-57d14100-e18a-11eb-9df6-79e5504f93df.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
